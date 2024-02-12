@@ -172,7 +172,6 @@ public class histo_training_spatial extends AppCompatActivity {
         display.getSize(size);
         int width = size.x;
         int height = size.y;
-        final TextView grtv = findViewById(R.id.gestureResultTextView); // Initiate the GestureResultTextView object
 
         sfg.setDebug(false);
         sfg.setConsumeTouchEvents(true);
@@ -180,7 +179,6 @@ public class histo_training_spatial extends AppCompatActivity {
         sfg.setOnFingerGestureListener(new SimpleFingerGestures_Mod.OnFingerGestureListener() {
             @Override
             public boolean onSwipeUp(int fingers, long gestureDuration, double gestureDistance) {
-//                grtv.setText("You swiped up with " + fingers + " finger(s).");
                 if (fingers == 1) {
                     //Write your code here for swiping UP with one finger
                 }
@@ -221,7 +219,6 @@ public class histo_training_spatial extends AppCompatActivity {
 
             @Override
             public boolean onSwipeDown(int fingers, long gestureDuration, double gestureDistance) {
-//                grtv.setText("You swiped down with " + fingers + " finger(s).");
                 if (fingers == 1) {
                     //Write your code here for swiping DOWN with one finger
                 }
@@ -239,7 +236,6 @@ public class histo_training_spatial extends AppCompatActivity {
 
             @Override
             public boolean onSwipeLeft(int fingers, long gestureDuration, double gestureDistance) {
-//                grtv.setText("You swiped left with " + fingers + " finger(s).");
                 if (fingers == 1) {
                     //Write your code here for swiping LEFT with one finger
                 }
@@ -257,7 +253,6 @@ public class histo_training_spatial extends AppCompatActivity {
 
             @Override
             public boolean onSwipeRight(int fingers, long gestureDuration, double gestureDistance) {
-//                grtv.setText("You swiped right with " + fingers + " finger(s).");
                 if (fingers == 1) {
                     //Write your code here for swiping RIGHT with one finger
                 }
@@ -290,7 +285,6 @@ public class histo_training_spatial extends AppCompatActivity {
 
             @Override
             public boolean onUnpinch(int fingers, long gestureDuration, double gestureDistance) {
-//                grtv.setText("You unpinched " + fingers + " fingers.");
                 if (fingers == 2) {
                     // Write your code here for PINCHING with 2 fingers
                 }

@@ -13,7 +13,7 @@
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
         android:icon="@mipmap/ic_launcher"
-        android:label="SUMMER_2023_USER_STUDY"
+        android:label="CHI_2024_Spatial_Audio_Dev_App"
         android:lockTaskMode="if_whitelisted"
         android:supportsRtl="true"
         android:theme="@style/AppTheme.FullScreen"
