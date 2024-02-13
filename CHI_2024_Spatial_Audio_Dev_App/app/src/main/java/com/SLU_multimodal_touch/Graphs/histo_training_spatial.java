@@ -766,7 +766,7 @@ public class histo_training_spatial extends AppCompatActivity {
          **************************************************************************************/
         // Set the file paths, delay, and timestamp format
         File path = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOCUMENTS); //Point to the Documents folder
-        File output_file_dir = new File(path + "/SOAR_2023/"); // Folder where CSV file will be saved inside the Documents folder
+        File output_file_dir = new File(path + "/Finger_Location_Data/"); // Folder where CSV file will be saved inside the Documents folder
         File output_file = new File(output_file_dir, file_name); //Point to the output file
         String header = "time,x0,x1,x2,x3,x4,y0,y1,y2,y3,y4\n"; // header for CSV file
         SimpleDateFormat sdf = new SimpleDateFormat("HH:mm:ss.SSS"); // Set the date for later constant updating
