@@ -7,6 +7,7 @@ This repo contains all the source code and the APK file for the user study perfo
 - [1. Deploying the App on Your Device (Easy!)](#1-deploying-the-app-on-your-device-easy)
 - [2. App Usage Tutorial](#2-app-usage-tutorial)
 - [3. Modifying the Source Code (Advanced!)](#3-modifying-the-source-code-advanced)
+- [4. Contact Us](#4-contact-us)
 
 
 # 1. Deploying the App on Your Device (Easy!)
@@ -27,6 +28,10 @@ After installation, follow these steps to use the app and navigate through the d
   
 
 # 3. Modifying the Source Code (Advanced!)
-To modify the source code of this app and customize it to your own needs, you will need [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4WxtdRhJsgphPmlxnRHIUZieIOhDLoCclxkKIc5MZgmkvwq3NGdQtLwkUaAvVnEALw_wcB&gclsrc=aw.ds) or similar software for Android Development. Clone this repository to a directory of your choice, and open up the CHI_2024_Spatial_Audio_Dev_App folder in Android Studio. You are now free to modify any of the apps contents and adapt it to your needs.
+To modify the source code of this app and customize it to your own needs, you will need [Android Studio](https://developer.android.com/studio?gad_source=1&gclid=Cj0KCQiAoKeuBhCoARIsAB4WxtdRhJsgphPmlxnRHIUZieIOhDLoCclxkKIc5MZgmkvwq3NGdQtLwkUaAvVnEALw_wcB&gclsrc=aw.ds) or similar software for Android Development. Clone this repository to a directory of your choice, and open up the CHI_2024_Spatial_Audio_Dev_App folder in Android Studio. You are now free to modify any of the apps contents and adapt it to your needs. The code is heavily commented to allow any developer to skim through it and understand its functionality.
 
-The code is heavily commented to allow any developer to skim through it and understand its functionality. Feel free to contact us if you have any questions!
+# 4. Contact Us
+If you have any questions, feel free to contact us at the following emails:
+- Wilfredo J. Robinson M., wilfredo.robinsonmoore@slu.edu
+- Medhani Kalal, medhani.kalal@slu.edu
+- Jennifer L. Tennison, jen.tennison@slu.edu
