@@ -33,5 +33,4 @@ To modify the source code of this app and customize it to your own needs, you wi
 # 4. Contact Us
 If you have any questions, feel free to contact us at the following emails:
 - Wilfredo J. Robinson M., wilfredo.robinsonmoore@slu.edu
-- Medhani Kalal, medhani.kalal@slu.edu
 - Jennifer L. Tennison, jen.tennison@slu.edu
